@@ -1,0 +1,11 @@
+{
+  "name": "DogefatherNFTs-SmartContract",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "repository": "https://github.com/DogefatherNFTs/DogefatherNFTs-SmartContract.git",
+  "author": "LemonCrypto",
+  "license": "MIT",
+  "dependencies": {
+    "openzeppelin-solidity": "^4.1.0"
+  }
+}
